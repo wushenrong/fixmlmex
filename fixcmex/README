@@ -1,0 +1,36 @@
+The fixcmex package provides fully scalable
+Computer Modern Math Extensions font.
+
+This is version 1.1 of the package
+
+ Copyright 2019 Enrico Gregorio
+
+ This program is provided under the terms of the
+ LaTeX Project Public License distributed from CTAN
+ archives in directory macros/latex/base/lppl.txt.
+
+ Author: Enrico Gregorio
+         Enrico dot Gregorio at univr dot it
+
+ This work has the LPPL maintenance status "author-maintained".
+
+ This work consists of the following files:
+
+README (this file)
+fixcmex.dtx
+fixcmex.ins
+fixcmex.pdf
+
+ and of the derived file
+
+fixcmex.sty
+
+To install the distribution:
+
+o run "latex fixcmex.ins"
+o move "fixcmex.sty" to locations where LaTeX will find
+  it (the FAQ on CTAN in /help/uktug-FAQ gives more
+  information about this magic place
+
+2019/08/05
+Enrico Gregorio
